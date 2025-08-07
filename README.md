@@ -8,7 +8,8 @@ Design an interactive dashboard in Power BI to help business stakeholders gain i
 - Dataset from Kaggle
 
 ## 📂 Dataset Description
-**Dataset:** Retail Sales Dataset (Kaggle)  
+**Dataset:** retail_sales_dataset.csv(Kaggle)  
+**dataset cleaned:** cleaned data task3.xlsx
 **Fields Used:** Transaction ID, Date, Customer ID, Gender, Age, Age Group (created), Category, Quantity, Price, Total (calculated)
 
 ## 🧹 Data Cleaning Steps (Power Query)
@@ -53,4 +54,14 @@ Customer Count = DISTINCTCOUNT(retail_sales_dataset[Customer ID])
 - Improved skills in Power BI, DAX, and dashboard design
 - Practiced trend analysis and KPI development
 - Enhanced data storytelling using interactive elements
-# task-3
+## files 
+- **Power Bi file**: data.pbix
+## Created ppt
+- Retail_Sales_Dashboard_Summary.pptx
+##Preview
+
+<img width="762" height="400" alt="task 3(1)" src="https://github.com/user-attachments/assets/2fc84178-b5f5-469c-b09f-987908d768d2" />
+<img width="735" height="412" alt="task 3(2)" src="https://github.com/user-attachments/assets/1b062047-e34d-40ee-90b9-839c11ac7ae6" />
+## 🙋‍♀ Author
+
+Tejasree Nune
