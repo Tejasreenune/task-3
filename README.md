@@ -10,6 +10,7 @@ Design an interactive dashboard in Power BI to help business stakeholders gain i
 ## 📂 Dataset Description
 **Dataset:** retail_sales_dataset.csv(Kaggle)  
 **dataset cleaned:** cleaned data task3.xlsx
+
 **Fields Used:** Transaction ID, Date, Customer ID, Gender, Age, Age Group (created), Category, Quantity, Price, Total (calculated)
 
 ## 🧹 Data Cleaning Steps (Power Query)
