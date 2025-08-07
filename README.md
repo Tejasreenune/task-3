@@ -58,10 +58,11 @@ Customer Count = DISTINCTCOUNT(retail_sales_dataset[Customer ID])
 - **Power Bi file**: data.pbix
 ## Created ppt
 - Retail_Sales_Dashboard_Summary.pptx
-##Preview
+## Dashboard
 
 <img width="762" height="400" alt="task 3(1)" src="https://github.com/user-attachments/assets/2fc84178-b5f5-469c-b09f-987908d768d2" />
 <img width="735" height="412" alt="task 3(2)" src="https://github.com/user-attachments/assets/1b062047-e34d-40ee-90b9-839c11ac7ae6" />
-## 🙋‍♀ Author
+
+## 👩🏻‍💻Author
 
 Tejasree Nune
